@@ -28,7 +28,7 @@
 1. Убедитесь, что Go установлен (`go version`).
 2. Склонируйте репозиторий:
    ```bash
-   git clone <URL_репозитория>
+   git clone https://github.com/AngelCareMe/OZON_Test-Exercise
    cd ozon_test
    ```
 3. Установите зависимости:
